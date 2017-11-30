@@ -5,5 +5,6 @@ SUBDIRS += \
     SharedLib2 \
     StaticLibSample \
     QPlugin \
-    PluginSystem
+    PluginSystem \
+    IterfaceConn
     AppPlugin
